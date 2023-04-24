@@ -1,0 +1,6 @@
+Principais recursos 
+
+Git init
+Git add .
+git commit -m "xxxxxx"
+git push -u origin main
